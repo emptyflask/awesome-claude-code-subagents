@@ -160,10 +160,11 @@ Language-specific experts with deep framework knowledge.
 - [**kotlin-specialist**](categories/02-language-specialists/kotlin-specialist.md) - Modern JVM language expert
 - [**laravel-specialist**](categories/02-language-specialists/laravel-specialist.md) - Laravel 10+ PHP framework expert
 - [**nextjs-developer**](categories/02-language-specialists/nextjs-developer.md) - Next.js 14+ full-stack specialist
+- [**nix-expert**](categories/02-language-specialists/nix-expert.md) - Nix, flakes, NixOS and home-manager expert
 - [**node-specialist**](categories/02-language-specialists/node-specialist.md) - Node.js specialist
 - [**php-pro**](categories/02-language-specialists/php-pro.md) - PHP web development expert
 - [**python-pro**](categories/02-language-specialists/python-pro.md) - Python ecosystem master
-- [**rails-expert**](categories/02-language-specialists/rails-expert.md) - Rails 8.1 rapid development expert
+- [**rails-expert**](categories/02-language-specialists/rails-expert.md) - Stack-aware Rails 7.x/8.x and Ruby 4.x expert
 - [**react-specialist**](categories/02-language-specialists/react-specialist.md) - React 18+ modern patterns expert
 - [**rust-engineer**](categories/02-language-specialists/rust-engineer.md) - Systems programming expert
 - [**spring-boot-engineer**](categories/02-language-specialists/spring-boot-engineer.md) - Spring Boot 3+ microservices expert

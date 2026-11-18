@@ -94,6 +94,11 @@ React framework expert specializing in Next.js App Router, server components, an
 
 **Use when:** Creating Next.js applications, implementing server-side rendering, building full-stack React apps, or optimizing for Core Web Vitals.
 
+### [**nix-expert**](nix-expert.md) - Nix, flakes, NixOS and home-manager expert
+Nix language specialist covering flakes, the module system, NixOS, nix-darwin, home-manager, and nixpkgs packaging. Builds reproducible, declarative configurations and debugs evaluation and build failures.
+
+**Use when:** Writing or refactoring flakes, NixOS/nix-darwin/home-manager modules, packaging software with derivations or overlays, setting up dev shells, or diagnosing evaluation and build errors.
+
 ### [**node-specialist**](node-specialist.md) - Node.js specialist
 Senior Node.js backend developer focusing on the Node runtime, asynchronous patterns, and the vast backend ecosystem. Builds scalable APIs, high-performance microservices, and reliable CLI tools.
 
@@ -119,10 +124,10 @@ Python language expert covering web development, data science, automation, and s
 
 **Use when:** Writing Python applications, building data pipelines, creating automation scripts, or developing Python packages.
 
-### [**rails-expert**](rails-expert.md) - Rails 7.x/8.x rapid development expert
-Version-aware Ruby on Rails specialist covering Rails 7.x through 8.1 with Ruby 3.2 through 3.4. Automatically detects Rails version from Gemfile.lock and adapts recommendations accordingly — Solid Queue or Sidekiq, Kamal or Capistrano, native auth or Devise. Masters Hotwire, Active Record, and convention-driven architecture.
+### [**rails-expert**](rails-expert.md) - Stack-aware Rails 7.x/8.x and Ruby 3.2-4.x expert
+Ruby on Rails specialist covering Rails 7.x through 8.1 with Ruby 3.2 through 4.x. Follows the project's established stack and its CLAUDE.md/AGENTS.md conventions instead of pushing Rails defaults. Covers Ruby 4.0 changes and upgrade work.
 
-**Use when:** Building Rails applications, implementing real-time features with Hotwire, optimizing Active Record queries, or upgrading Rails versions.
+**Use when:** Maintaining or extending established Rails applications, building APIs, optimizing Active Record queries, or upgrading Rails or Ruby versions.
 
 ### [**react-specialist**](react-specialist.md) - React 18+ modern patterns expert
 React ecosystem expert mastering hooks, concurrent features, and modern patterns. Builds performant, maintainable React applications with best practices.
@@ -184,10 +189,11 @@ Vue.js framework specialist mastering the Composition API, reactivity system, an
 | Kotlin | **kotlin-specialist** | Android apps, modern JVM |
 | Laravel | **laravel-specialist** | PHP web applications |
 | Next.js | **nextjs-developer** | Full-stack React apps |
+| Nix | **nix-expert** | Flakes, NixOS/home-manager configs, packaging |
 | Node.js | **node-specialist** | Backend services, scripts |
 | PHP | **php-pro** | Web development, APIs |
 | Python | **python-pro** | General purpose, data science |
-| Rails | **rails-expert** | Rapid web development |
+| Rails | **rails-expert** | Established Rails apps, APIs, upgrades |
 | React | **react-specialist** | Modern web UIs |
 | Rust | **rust-engineer** | Systems software, WebAssembly |
 | Spring Boot | **spring-boot-engineer** | Java microservices |
